@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acerca de - Dosis de Amor</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Dosis de Amor</h1>
+        <p>Por Cheo Villegas</p>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="index.html#doses">Dosis</a></li>
+                <li><a href="about.html">Acerca de</a></li>
+                <li><a href="contact.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Acerca de</h2>
+        <p>Este libro, "Dosis de Amor", fue escrito por Cheo Villegas con el propósito de acercar a las personas al amor incondicional de Dios. Cada dosis es una reflexión basada en versículos bíblicos que inspiran y fortalecen la fe.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Dosis de Amor - Cheo Villegas</p>
+    </footer>
+</body>
+</html>

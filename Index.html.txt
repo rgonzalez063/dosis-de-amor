@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dosis de Amor - Inicio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Dosis de Amor</h1>
+        <p>Por Cheo Villegas</p>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="#doses">Dosis</a></li>
+                <li><a href="about.html">Acerca de</a></li>
+                <li><a href="contact.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Introducción</h2>
+        <p>Tus circunstancias y condiciones son muy diferentes a las de los demás alrededor, incluyéndome a mí como escritor de estas dosis. Si eres sensible a la voz del Espíritu Santo, disfrutarás cada una de éstas dosis, el amor del Padre inundará tu corazón completamente.</p>
+    </section>
+
+    <section id="doses">
+        <h2>Dosis de Amor</h2>
+        <ul>
+            <li><a href="doses/dosis1.html">Dosis 1: Salmo 139:13</a></li>
+            <li><a href="doses/dosis2.html">Dosis 2: 1 Juan 3:1</a></li>
+            <li><a href="doses/dosis3.html">Dosis 3: Génesis 1:26</a></li>
+            <!-- Add links for all 31 doses -->
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Dosis de Amor - Cheo Villegas</p>
+    </footer>
+</body>
+</html>
