@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dosis 1 - Salmo 139:13</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <header>
+        <h1>Dosis de Amor</h1>
+        <p>Por Cheo Villegas</p>
+        <nav>
+            <ul>
+                <li><a href="../index.html">Inicio</a></li>
+                <li><a href="../index.html#doses">Dosis</a></li>
+                <li><a href="../about.html">Acerca de</a></li>
+                <li><a href="../contact.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Dosis 1: Salmo 139:13</h2>
+        <p>“Porque tú formaste mis entrañas; Tú me hiciste en el vientre de mi madre.”</p>
+        <p>En otras palabras, lo que el Padre te está diciendo es:</p>
+        <blockquote>
+            “Recuerdo con alegría el momento cuando te formé dentro del vientre de tu mami; Todo detalle de tu cuerpecito yo lo hice con mucho amor. Estoy super feliz de haberte formado.”
+        </blockquote>
+        <p>El Padre te formó de una forma impresionante, eres una obra maestra en sus manos.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Dosis de Amor - Cheo Villegas</p>
+    </footer>
+</body>
+</html>
